@@ -12,3 +12,5 @@ This project is a simple resume webpage created using HTML and CSS as part of fu
 
 ## Future Scope
 - Make the resume responsive
+- Add more advanced CSS styling
+- Convert it onto a personal portfolio website
