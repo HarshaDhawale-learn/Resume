@@ -1,4 +1,4 @@
-## HTML Resume Assignment
+## HTML & CSS Practice
 This project is a simple resume webpage created using HTML and CSS as part of full stack development course assignment.
 
 ## Technologies Used
